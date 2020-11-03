@@ -64,7 +64,7 @@ You should always try to include headers, images or themes in your documents. As
      
     Note : The demo in the GIF shows how to change the theme, that is why there is index.md already created.
 
-### 5. Opening the link
+### 5. See your resume
   * To see the URL where your resume is hosted, go to **Settings** and scroll down to *GitHub pages* section.
   
   * There is a line written at the top of the section.   
