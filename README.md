@@ -41,7 +41,7 @@ Now, let's get started with the steps:
   * Select your desired theme from the list and click **Select theme**.   
    ![Theme](theme.gif)
   * Adding a theme will create two new files in your repository.  
-     * index.md : This is your resume formatted in markdown. 
+     * index.md : This is the file that is linked with the theme. Paste your resume formatted in markdown in this file.
      * _config.yml : This is the Jekyll file for your theme. You can look up online on what else can be changed through the file.    
      
      
@@ -62,6 +62,9 @@ Now, let's get started with the steps:
 
 ## Authors and Acknowledgments
 1. Jasdeep Singh
+2. Jaskaran Singh
+3. Ruiqi Zeng
+4. Anna Messejnikov
 
 ## FAQs
 1. Why is my resume not showing up?   
