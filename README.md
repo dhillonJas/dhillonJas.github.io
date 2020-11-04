@@ -4,7 +4,7 @@
 This README describes how to apply the strategies and protocols mentioned in Andrew Etter's book *Modern Technical Communication*. We will host a resume on GitHub pages using those strategies.
 
 ## Prerequisites
-A resume formatted in Markdown will be required. If you do not know how Markdown works, a link to a Markdown tutorial is provided in "More resources" at the bottom.
+A resume formatted in Markdown will be required. If you do not know how Markdown works, a link to a Markdown tutorial is provided in [More resources](https://github.com/dhillonJas/dhillonJas.github.io#more-resources) at the bottom.
 
 ## Instructions
 ### 1. Make/Log in GitHub account
@@ -34,7 +34,7 @@ Static websites are faster, simple, and secure. Since no content is generated dy
   Using files in lightweight markup format has one big reason: it is easy. As Etter says in his book
   > The entire point of lightweight markup is to make it easier to produce well-formed XML, and we need XML in order to build websites.   
   
-  Markdown is one of the most popular markup languages. Markup languages are like human-readable XML. If you want more people to contribute to your resume, using a markup language is the way to go. Again, a markdown tutorial is provided in the "More resources" tab, if you would like to delve more into the language.
+  Markdown is one of the most popular markup languages. Markup languages are like human-readable XML. If you want more people to contribute to your resume, using a markup language is the way to go. Again, a markdown tutorial is provided in the [More resources](https://github.com/dhillonJas/dhillonJas.github.io#more-resources) tab, if you would like to delve more into the language.
   
   * Open a repository and click on **Add file** at the top as shown in the picture below.
     ![Add a file](addfile.png)
@@ -83,13 +83,15 @@ You should always try to include headers, images, or themes in your documents. A
 3. To learn more about Jekyll, click [here](https://jekyllrb.com/).
 
 ## Authors and Acknowledgments
-1. Jasdeep Singh
+1. Jasdeep Singh : Author
 
-2. Jaskaran Singh
+2. Jaskaran Singh : Group Member
 
-3. Ruiqi Zeng
+3. Ruiqi Zeng : Group Member
 
-4. Anna Messejnikov
+4. Anna Messejnikov : Group Member
+
+5. PurpleBooth : [Readme template](https://github.com/PurpleBooth/a-good-readme-template)
 
 ## FAQs
 **1. Why is my resume not showing up?**  
