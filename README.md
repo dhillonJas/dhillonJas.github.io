@@ -49,11 +49,13 @@ Static websites are faster, simple, and secure. Since no content is generated dy
 ### 4. Add a theme   
 You should always try to include headers, images, or themes in your documents. As Etter talks about this in his book, these additions will make your writing more approachable and simpler to read than just lines of paragraphs. There are multiple static site generators we can use to add themes and graphics. We are using Jekyll. Jekyll is the most popular and is very easy to learn. It provides some built-in theme templates that can you can use. It also gives you the option to create your template.  
 
-  * To include a theme for your GitHub page, open your repository and click on Settings at **top-center**.
+  * To include a theme for your GitHub page, open your repository and click on Settings at **top-center**. 
   
   * Scroll down to *GitHub Pages* section and click **Change Theme**.
   
-  * Select your desired theme from the list and click **Select theme**. 
+  * Select your desired theme from the list and click **Select theme**.
+  
+  * See the GIF below for visual explanation.
   
   * When adding a theme for the first time, it will create two new files in your repository.  
      * index.md: This is the file that is linked with the theme. Paste your resume formatted in markdown in this file.
